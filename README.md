@@ -2,7 +2,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://imgflip.com/gif/b4zick.gif"  />
+<img data-importer="image" align="center" height="150" src="https://imgflip.com/gif/b4zick.gif"  />
 
 ###
 
@@ -36,4 +36,4 @@
 
 
 ###
-<img src="./terminal.svg" alt="Terminal" />
+<img src="./terminal.svg" alt="Terminal" align="center" />
