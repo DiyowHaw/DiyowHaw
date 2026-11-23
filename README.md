@@ -44,4 +44,3 @@
 <img data-importer="snake" src="https://raw.githubusercontent.com/DiyowHaw/DiyowHaw/snake-output/snake.svg" alt="Snake animation" />
 
 <img src="./terminal.svg" alt="Terminal" />
-###
