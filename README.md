@@ -1,4 +1,4 @@
-<h3 data-importer="text" align="left">Hi 👋! I'm Dio Gentano Ramadhan</h3>
+<img src="./header.svg" alt="Header" />
 
 ###
 
