@@ -1,6 +1,6 @@
-<img src="./header.svg" alt="Header" />
+<img src="./header.svg" alt="Header"/>
 
-<img data-importer="image" align="center" height="150" src="https://imgflip.com/gif/b4zick.gif"  />
+<img data-importer="image" align="center" height="150" src="https://imgflip.com/gif/b4zick.gif"/>
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -26,4 +26,4 @@
 
 <br clear="both">
 
-<img src="./terminal.svg" alt="Terminal" align="center" />
+<img src="./terminal.svg" alt="Terminal" align="center"/>
