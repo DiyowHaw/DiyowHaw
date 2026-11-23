@@ -41,6 +41,13 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/DiyowHaw/DiyowHaw/snake-output/snake.svg" alt="Snake animation" />
+###
 
+<img src="dist/github-contribution-grid-snake-dark.svg">
+
+```markdown
+![Snake animation](https://github.com/{your-username}/{repository-name}/blob/main/dist/github-contribution-grid-snake-dark.svg)
+```
+
+###
 <img src="./terminal.svg" alt="Terminal" />
