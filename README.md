@@ -1,6 +1,5 @@
 <h3 data-importer="text" align="left">Hi 👋! I'm Dio Gentano Ramadhan</h3>
 
-<img src="./terminal.svg" alt="Terminal" />
 ###
 
 <div data-importer="stats" align="center">
@@ -44,4 +43,5 @@
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/DiyowHaw/DiyowHaw/snake-output/snake.svg" alt="Snake animation" />
 
+<img src="./terminal.svg" alt="Terminal" />
 ###
