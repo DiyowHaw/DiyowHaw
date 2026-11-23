@@ -2,13 +2,6 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/DiyowHaw/DiyowHaw/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/DiyowHaw/DiyowHaw/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <img data-importer="image" align="right" height="150" src="https://imgflip.com/gif/b4zick.gif"  />
 
 ###
@@ -41,13 +34,6 @@
 
 <br clear="both">
 
-###
-
-<img src="dist/github-contribution-grid-snake-dark.svg">
-
-```markdown
-![Snake animation](https://github.com/{your-username}/{repository-name}/blob/main/dist/github-contribution-grid-snake-dark.svg)
-```
 
 ###
 <img src="./terminal.svg" alt="Terminal" />
