@@ -93,13 +93,13 @@
           
           <div class="code">
             <div class="line l1" style="color: #e2e8f0;">const developer = {</div>
-            <div class="line l2" style="color: #a3e6d3;">  name: "Eki Zulfar Rachman",</div>
+            <div class="line l2" style="color: #a3e6d3;">  name: "Dio Gentano Ramadhan",</div>
             <div class="line l3" style="color: #a3e6d3;">  role: "Frontend Developer",</div>
             <div class="line l4" style="color: #a3e6d3;">  stack: ["React", "Node.js", "JavaScript"],</div>
             <div class="line l5" style="color: #93c5fd;">  principle: "Leveraging AI as a professional tool, not a replacement.",</div>
             <div class="line l6" style="color: #f59e0b;">  focus: "building engaging websites",</div>
             <div class="line l7" style="color: #e2e8f0;">  build: () =&gt; {</div>
-            <div class="line l8" style="color: #c084fc;">    return "interactive digital experiences";</div>
+            <div class="line l8" style="color: #c084fc;">  return "interactive digital experiences";</div>
             <div class="line l9" style="color: #e2e8f0;">  }</div>
             <div class="line l10" style="color: #e2e8f0;">}<span class="cursor"></span></div>
           </div>
