@@ -17,7 +17,7 @@
 </div>
 
 <div data-importer="socials" align="center">
-  <a href="www.youtube.com/@diogentanoramadhan2513" target="_blank" rel="noopener noreferrer">
+  <a href="http://youtube.com/@diogentanoramadhan2513" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube" />
   </a>
   <a href="https://www.instagram.com/gntnormdhn?hvrq=MWF3NXo2ZXVwejU3Zw==" target="_blank" rel="noopener noreferrer">
@@ -26,7 +26,7 @@
   <a href="mailto:diogentanoramadhan@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
   </a>
-  <a href="t.me/bomkark" target="_blank" rel="noopener noreferrer">
+  <a href="https://t.me/bomkark" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Telegram" />
   </a>
 </div>
